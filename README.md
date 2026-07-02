@@ -134,3 +134,5 @@ Example:
 * Ziad Rehan
 
 **Supervisor:** Dr. Shimaa Mamdouh
+<p align="right">
+  <img src="https://i.postimg.cc/yxy6x7F6/image.png" width="32" valign="middle">
